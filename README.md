@@ -1,8 +1,7 @@
 # Eczane Otomasyon Sistemi
 
-## Proje Açıklaması
-Bu proje, eczanelerde reçete yazma ve yönetme işlemlerini kolaylaştırmak amacıyla geliştirilmiş bir otomasyon sistemidir. Kullanıcı dostu arayüzü ve veritabanı desteği ile hızlı ve güvenilir bir çözüm sunar.
-
+## Proje Ne İçin Yapıldı?
+**PROJE Ondokuz Mayıs Üniversitesi - Bilgisayar Programcılığı bölümü Sistem Analizi ve Tasarımı dersi dönem projesi için yapılmıştır.** Eczanelerde reçete yazma ve yönetme işlemlerini kolaylaştırmak amacıyla geliştirilmiş bir otomasyon sistemidir. Kullanıcı dostu arayüzü ve veritabanı desteği ile hızlı ve güvenilir bir çözüm sunar.
 ## Özellikler
 - **Reçete Oluşturma ve Yönetme:** Reçeteler kolayca oluşturulabilir, düzenlenebilir ve görüntülenebilir.
 - **Müşteri Bilgileri Yönetimi:** Müşterilerin bilgileri güvenli bir şekilde saklanır ve yönetilir.
