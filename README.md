@@ -13,7 +13,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Depoyu Klonlayın:**
    ```sh
-   git clone https://github.com/kullaniciadi/eczane-otomasyon.git
+   git clone https://github.com/furtti/eczane-otomasyon.git
    cd eczane-otomasyon
    ```
 
